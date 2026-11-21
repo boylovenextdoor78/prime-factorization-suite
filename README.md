@@ -1,2 +1,3 @@
 # prime-factorization-suite
 This is an application built using HTML, CSS, and code gathered from various sources. It includes two data files—`primes_store.json` (approximately 312 MB) and `primes_store_2.json` (approximately 216 MB)—which together contain a sequence of 55,674,071 consecutive prime numbers. The application is in a file named `prime_factor_suite.html`.
+Check out the latest release to download two JSON files to your laptop, containing an extensive dataset of prime numbers up to 1,100,242,691. Feel free to use these files however you like—there’s no password protection. They are meant for everyone to use; I’d appreciate any feedback you might have to help me improve them.
